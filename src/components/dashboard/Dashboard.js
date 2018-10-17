@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import { connect } from 'react-redux'
+import { connect } from 'react-redux';
 import ProjectList from '../projects/ProjectList';
 import Notifications from './Notifications';
 
