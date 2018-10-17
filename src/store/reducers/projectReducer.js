@@ -12,7 +12,7 @@ const projectReducer = (state = initialState, action) => {
         case 'CREATE_PROJECT':
             console.log('created  project', action.project);
             break;
-            
+
         default: return state;
     }
 
