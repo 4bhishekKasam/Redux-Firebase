@@ -16,6 +16,7 @@ class CreateProject extends Component {
         e.preventDefault();
         //  console.log(this.state);
         this.props.createProject(this.state);
+        this.props.history.push('/');
     }
 
     render() {
@@ -50,11 +51,9 @@ const mapStateToProps = (state) => {
     }
 }
 
-const mapDispatchToProps = (dispatch) => {
+const mapDispatchToProps = dispatch => {
     return {
-        createProject: (project) => {
-            dispatch(createProject(project));
-        }
+        createProject: (project) => dispatch(createProject(project))
     }
 }
 
