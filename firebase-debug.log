@@ -1,0 +1,38 @@
+[debug] [2018-10-31T14:41:03.016Z] ----------------------------------------------------------------------
+[debug] [2018-10-31T14:41:03.016Z] Command:       C:\Program Files\nodejs\node.exe C:\Users\Administrator\AppData\Roaming\npm\node_modules\firebase-tools\lib\bin\firebase.js login
+[debug] [2018-10-31T14:41:03.016Z] CLI Version:   6.0.0
+[debug] [2018-10-31T14:41:03.016Z] Platform:      win32
+[debug] [2018-10-31T14:41:03.016Z] Node Version:  v8.11.1
+[debug] [2018-10-31T14:41:03.031Z] Time:          Wed Oct 31 2018 20:11:03 GMT+0530 (India Standard Time)
+[debug] [2018-10-31T14:41:03.031Z] ----------------------------------------------------------------------
+[debug] 
+[info] 
+[info] Visit this URL on any device to log in:
+[info] https://accounts.google.com/o/oauth2/auth?client_id=563584335869-fgrhgmd47bqnekij5i8b5pr03ho849e6.apps.googleusercontent.com&scope=email%20openid%20https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fcloudplatformprojects.readonly%20https%3A%2F%2Fwww.googleapis.com%2Fauth%2Ffirebase%20https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fcloud-platform&response_type=code&state=152399818&redirect_uri=http%3A%2F%2Flocalhost%3A9005
+[info] 
+[info] Waiting for authentication...
+[debug] [2018-10-31T14:41:16.289Z] Unable to open URL: Error: spawn cmd ENOENT
+    at _errnoException (util.js:1022:11)
+    at Process.ChildProcess._handle.onexit (internal/child_process.js:190:19)
+    at onErrorNT (internal/child_process.js:372:16)
+    at _combinedTickCallback (internal/process/next_tick.js:138:11)
+    at process._tickDomainCallback (internal/process/next_tick.js:218:9)
+[debug] [2018-10-31T14:46:54.744Z] ----------------------------------------------------------------------
+[debug] [2018-10-31T14:46:54.760Z] Command:       C:\Program Files\nodejs\node.exe C:\Users\Administrator\AppData\Roaming\npm\node_modules\firebase-tools\lib\bin\firebase.js login
+[debug] [2018-10-31T14:46:54.760Z] CLI Version:   6.0.0
+[debug] [2018-10-31T14:46:54.760Z] Platform:      win32
+[debug] [2018-10-31T14:46:54.760Z] Node Version:  v8.11.1
+[debug] [2018-10-31T14:46:54.760Z] Time:          Wed Oct 31 2018 20:16:54 GMT+0530 (India Standard Time)
+[debug] [2018-10-31T14:46:54.760Z] ----------------------------------------------------------------------
+[debug] 
+[info] 
+[info] Visit this URL on any device to log in:
+[info] https://accounts.google.com/o/oauth2/auth?client_id=563584335869-fgrhgmd47bqnekij5i8b5pr03ho849e6.apps.googleusercontent.com&scope=email%20openid%20https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fcloudplatformprojects.readonly%20https%3A%2F%2Fwww.googleapis.com%2Fauth%2Ffirebase%20https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fcloud-platform&response_type=code&state=89372758&redirect_uri=http%3A%2F%2Flocalhost%3A9005
+[info] 
+[info] Waiting for authentication...
+[debug] [2018-10-31T14:47:36.208Z] Unable to open URL: Error: spawn cmd ENOENT
+    at _errnoException (util.js:1022:11)
+    at Process.ChildProcess._handle.onexit (internal/child_process.js:190:19)
+    at onErrorNT (internal/child_process.js:372:16)
+    at _combinedTickCallback (internal/process/next_tick.js:138:11)
+    at process._tickDomainCallback (internal/process/next_tick.js:218:9)
